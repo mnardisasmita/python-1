@@ -1,2 +1,2 @@
-# python-1
+# Pymul-Uler-1
 Repo latihan Python 1
